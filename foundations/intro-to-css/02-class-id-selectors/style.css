@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+
+.uno, .due, .tre{
+    background-color: rgb(253, 150, 193);
+    font-family: "Verdana" , "Deja-vu", sans-serif;
+}
+
+.unouno  {
+    color:blue;
+    font-size: 36px;
+}
+
+.duedue {
+    background-color:rgba(72, 255, 0, 0.555);
+    font-size: "24px";
+    font-weight: bold;
+}
